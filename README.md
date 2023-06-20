@@ -1,10 +1,10 @@
-# GPT & LangChain Complex Repo Finder
+# GPT & LangChain Repo QA
 
 This project is a web application that utilizes the power of GPT (Generative Pre-trained Transformer) and LangChain to help you find the most technically complex and challenging repositories on GitHub. By providing a GitHub user's URL, the application will analyze their repositories and present you with the most sophisticated projects.
 
 ## Table of Contents
 - [Features](#features)
-- [Installation & Usage](#installation)
+- [Installation & Usage](#installation&usage)
 
 ## Features
 
