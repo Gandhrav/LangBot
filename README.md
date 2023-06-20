@@ -41,4 +41,4 @@ setx OPENAI_API_KEY “<yourkey>”
    from langbot import print_answer
    print_answer(your question)
    ```
-   
+6. Enter the github username/ownername in the owner text field and the repo name in the repository text field. 
