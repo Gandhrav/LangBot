@@ -17,8 +17,8 @@ st.text('This is a web app to allow qa with your github repo')
 
 os.environ['OPENAI_API_KEY'] = st.secrets['OPENAI_API_KEY']
 
-owner = st.text_input('Owner ',' ')
-repo = st.text_input('Repo name ',' ')
+owner = st.text_input('Owner ','')
+repo = st.text_input('Repo name ','')
 
 def get_github_docs(repo_owner, repo_name):
     with tempfile.TemporaryDirectory() as d:
