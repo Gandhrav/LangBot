@@ -7,7 +7,7 @@ This project is a web application that utilizes the power of GPT and utilizing P
 
 ## Features
 
-- **GitHub User Analysis**: Enter a GitHub user's URL to analyze their repositories.
+- **GitHub User Analysis**: Enter a GitHub user's username and repo name to analyze their repositories.
 - **GPT-powered Analysis**: Utilizes the GPT model to analyze each repository.
 - **LangChain Integration**: Integrates with LangChain for advanced language processing and understanding.
 
