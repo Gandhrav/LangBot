@@ -23,7 +23,7 @@ To run this application locally, please follow these steps:
 
 2. Navigate to the project directory:
    ```bash
-   cd gpt-langchain-complex-repo-finder
+   cd LangBot
    ```
 
 3. Install the required dependencies using the requirements.txt file:
