@@ -18,7 +18,7 @@ To run this application locally, please follow these steps:
 
 1. Clone this repository to your local machine using the following command:
    ```bash
-   git clone https://github.com/your-username/gpt-langchain-complex-repo-finder.git
+   git clone https://github.com/Gandhrav/LangBot.git
    ```
 
 2. Navigate to the project directory:
