@@ -15,7 +15,7 @@ import openai
 st.title('GitHub LangBot Explorer')
 st.text('This is a web app to allow qa with your github repo')
 
-openai.api_key = os.getenv("OPENAI_API_KEY")
+os.environ['OPENAI_API_KEY'] = st.secrets['OPENAI_API_KEY']
 
 owner = st.text_input('Owner ',' ')
 repo = st.text_input('Repo name ',' ')
