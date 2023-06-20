@@ -4,7 +4,7 @@ This project is a web application that utilizes the power of GPT (Generative Pre
 
 ## Table of Contents
 - [Features](#features)
-- [Installation & Usage](#installation&usage)
+- [Installation&Usage](#installation&usage)
 
 ## Features
 
@@ -12,7 +12,7 @@ This project is a web application that utilizes the power of GPT (Generative Pre
 - **GPT-powered Analysis**: Utilizes the GPT model to analyze each repository.
 - **LangChain Integration**: Integrates with LangChain for advanced language processing and understanding.
 
-## Installation & Usage
+## Installation&Usage
 
 To run this application locally, please follow these steps:
 
